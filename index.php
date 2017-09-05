@@ -11,11 +11,21 @@
 		<link href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" rel="stylesheet" />
 		<link rel="stylesheet" href="//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
 		<link rel="stylesheet" href="style.css" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-104155291-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 
 	</head>
 
 	<body>
-			<?php include_once("analyticstracking.php") ?>
+			
 	<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 		<div class="container">
 			<div class="navbar-header">
@@ -39,6 +49,8 @@
 				</ul>
 				<div>
 					<ul class="nav navbar-nav">
+						<li><a class="page-scroll" href="#one">Про нас</a></li>
+						<li><a class="page-scroll" href="#two">Замовити</a></li>
 						<li class="dropdown nav">
 							<a class="dropdown-toggle" data-toggle="dropdown" href="#">Покупцям <b class="caret"></b></a>
 							<ul class="dropdown-menu nav">
@@ -46,8 +58,6 @@
 								<li><a class="page-scroll" href="#paymentandreturn">Оплата та повернення</a></li>
 							</ul>
 						</li>
-						<li><a class="page-scroll" href="#one">Про нас</a></li>
-						<li><a class="page-scroll" href="#two">Замовити</a></li>
 						<li><a class="page-scroll" href="#four">Наші переваги</a></li>
 						<li><a class="page-scroll" href="#last">Контакти</a></li>
 					</ul>
@@ -458,13 +468,7 @@
 	</div>
 
 	<!-- Google Tag Manager (noscript) -->
-	<script type="text/javascript">
-		(function(d, w, s) {
-			var widgetHash = '2ur04649j06absupdf08', gcw = d.createElement(s); gcw.type = 'text/javascript'; gcw.async = true;
-			gcw.src = '//widgets.binotel.com/getcall/widgets/'+ widgetHash +'.js';
-			var sn = d.getElementsByTagName(s)[0]; sn.parentNode.insertBefore(gcw, sn);
-		})(document, window, 'script');
-	</script>
+
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
@@ -478,5 +482,19 @@
 	<script src="app.js"></script>
 	<script src="days.js"></script>
 
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 846641843;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/846641843/?guid=ON&amp;script=0"/>
+</div>
+</noscript>
 	</body>
 </html>

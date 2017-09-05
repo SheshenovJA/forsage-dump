@@ -568,7 +568,7 @@ img::-moz-selection {
     #return {margin-left: 30px;}
     #logo-main-ss { display: none; }   /* hide it elsewhere */
     .fade-carousel .slides .slide-2 {
-    	background-image: url(img/forsage_offers_july_ukr_mobile.jpg)
+    	background-image: url(img/forsage_offers_ukr_mobile.jpg)
 	}
 }
 
@@ -801,7 +801,7 @@ img::-moz-selection {
 }
 
 .fade-carousel .slides .slide-2 {
-  background-image: url(img/forsage_offers_july_ukr_banner.jpg);
+  background-image: url(img/forsage_offers_ukr_banner.jpg);
   background-size: 100% 100%;
   padding-top: 90px;
   opacity: 1;
@@ -818,13 +818,13 @@ img::-moz-selection {
     .hero h2 {font-size: 1.5em;}
     .hero h3 {font-size: 1.5em;}
     .fade-carousel .slides .slide-2 {
-      background-image: url(img/forsage_offers_july_ukr_mobile.jpg);
+      background-image: url(img/forsage_offers_ukr_mobile.jpg);
       opacity: 1;
     }
   }
   @media screen and (min-width: 641px) and (max-width: 1401px){
     .fade-carousel .slides .slide-2 {
-      background-image: url(img/forsage_offers_july_ukr_tablet.jpg);
+      background-image: url(img/forsage_offers_ukr_tablet.jpg);
       background-size: 100% 100%;
       padding-top: 90px;
     }
@@ -1001,7 +1001,7 @@ img::-moz-selection {
 }
 }
 #promo{
-  background-image: url(img/forsage_offers_july_ukr.jpg);
+  background-image: url(img/forsage_offers_ukr.jpg);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;

@@ -798,7 +798,7 @@ color: #f15f29;
 }
 
 .fade-carousel .slides .slide-2 {
-  background-image: url(img/forsage_offers_july_ru_banner.jpg);
+  background-image: url(img/forsage_offers_ru_banner.jpg);
   background-size: 100% 100%;
   padding-top: 90px;
 
@@ -815,13 +815,13 @@ color: #f15f29;
     .hero h2 {font-size: 1.5em;}
     .hero h3 {font-size: 1.5em;}
     .fade-carousel .slides .slide-2 {
-      background-image: url(img/forsage_offers_july_ru_mobile.jpg);
+      background-image: url(img/forsage_offers_ru_mobile.jpg);
       opacity: 1;
     }
   }
   @media screen and (min-width: 641px) and (max-width: 1601px){
     .fade-carousel .slides .slide-2 {
-      background-image: url(img/forsage_offers_july_ru_tablet.jpg);
+      background-image: url(img/forsage_offers_ru_tablet.jpg);
       background-size: 100% 100%;
       padding-top: 90px;
     }
@@ -932,20 +932,20 @@ color: #f15f29;
 }
 
 .scrollcontrol {
-	display: none;
+    display: none;
 
-	position: fixed;
-	left: 20px;
-	bottom: 20px;
-	z-index: 100;
+    position: fixed;
+    left: 20px;
+    bottom: 20px;
+    z-index: 100;
 
-	background-color: #1E92D0;
-	border-radius: 50%;
+    background-color: #1E92D0;
+    border-radius: 50%;
 
-	width: 70px;
-	height: 70px;
+    width: 70px;
+    height: 70px;
 
-	text-decoration: none;
+    text-decoration: none;
 }
 .scrollcontrol {
   display: none;
@@ -991,7 +991,7 @@ color: #f15f29;
 }
 }
 #promo{
-  background-image: url(img/forsage_offers_july_ru.jpg);
+  background-image: url(img/forsage_offers_ru.jpg);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;

@@ -42,15 +42,15 @@
 					</ul>
 					<div>
 						<ul class="nav navbar-nav">
-							<li class="dropdown nav">
-							 <a class="dropdown-toggle" data-toggle="dropdown" href="#">Покупателям <b class="caret"></b></a>
-									<ul class="dropdown-menu nav">
-										 <li><a class="page-scroll" href="#three">Доставка</a></li>
-										 <li><a class="page-scroll" href="#paymentandreturn">Оплата и возврат</a></li>
-									</ul>
-								</li>
 							<li><a class="page-scroll" href="#one">О нас</a></li>
 							<li><a class="page-scroll" href="#two">Заказать</a></li>
+							<li class="dropdown nav">
+								<a class="dropdown-toggle" data-toggle="dropdown" href="#">Покупателям <b class="caret"></b></a>
+								<ul class="dropdown-menu nav">
+									 <li><a class="page-scroll" href="#three">Доставка</a></li>
+									 <li><a class="page-scroll" href="#paymentandreturn">Оплата и возврат</a></li>
+								</ul>
+							</li>
 							<li><a class="page-scroll" href="#four">Наши преимущества</a></li>
 							<li><a class="page-scroll" href="#last">Контакты</a></li>
 						</ul>
